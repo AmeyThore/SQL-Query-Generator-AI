@@ -82,7 +82,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Project Link: [https://github.com/yourusername/sql-query-generator](https://github.com/AmeyThore/SQL-Query-Generator-AI)
+Project Link: [https://github.com/AmeyThore/sql-query-generator](https://github.com/AmeyThore/SQL-Query-Generator-AI)
 
 ## Acknowledgements
 
